@@ -1,4 +1,4 @@
-### Bootstrap 4 Gallery with Image Thumbnails | snippets17
+### [Bootstrap 4 Gallery with Image Thumbnails | snippets17](https://takagotch.github.io/snippets17/)
 ---
 
 
